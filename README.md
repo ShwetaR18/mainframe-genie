@@ -34,3 +34,7 @@ Mainframe modernization efforts are slowed by the difficulty of understanding le
 ### Exportable Reports
 - Download detailed **JSON** for automation  
 - Download polished **PDF** for review
+
+## How to Run the Project
+Replace the open_api_key in the .env file to your key:  
+   OPENAI_API_KEY=${your_open_api_key}
