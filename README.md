@@ -3,6 +3,10 @@
 Legacy tools modernization efforts are slowed by the difficulty of understanding legacy code and disconnected documentation. A solution is needed to dynamically explain code and link it with systems like Jira and Git for faster, informed modernization.
 
 
+![AI Code Explainer & Analyzer – Upload Screen](./assets/Image1.png)
+![SOLID Principle Check & Linting Suggestions](./assets/Image2.png)
+![Preview Code, Explanation & Complexity Analysis](./assets/Image3.png)
+
 ## Key Features of Code Genie
 
 ### Multi-Language Support  
