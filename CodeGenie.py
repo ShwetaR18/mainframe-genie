@@ -16,11 +16,11 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Page setup
-st.set_page_config(page_title="CodeClarity – AI Code Analyzer", layout="wide")
-st.title("🧠 CodeClarity – AI Code Analyzer")
+st.set_page_config(page_title="CodeGenie – AI Code Analyzer", layout="wide")
+st.title("🧠 CodeGenie – AI Code Analyzer")
 
 st.markdown("""
-Welcome to **CodeClarity**, your intelligent assistant for understanding legacy and modern code.
+Welcome to **CodeGenie**, your intelligent assistant for understanding legacy and modern code.
 Upload code files, and get detailed explanations, complexity analysis, vulnerability checks, SOLID principle insights, and even linting tips!
 """)
 
