@@ -11,7 +11,7 @@ Mainframe modernization efforts are slowed by the difficulty of understanding le
 - Drag-&-drop or browse up to **200 MB** per file  
 - Live code preview pane for instant context
 
-### Friendly Explanations
+### Clear Explanations
 - Natural-language walkthroughs of functions, loops & data flows  
 - Highlights dependencies and key logic paths
 
